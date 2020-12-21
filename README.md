@@ -1,8 +1,11 @@
-<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsxxgxxnz&count_bg=%237F50D3&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsxxgxxnz&count_bg=%23643DC8&title_bg=%23555555&icon=laravelnova.svg&icon_color=%23BEBDBD&title=hits&edge_flat=false"/></a>
+</div> 
+
 ### Hi 난 승은👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxgxxnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+
 
 <!--
 **sxxgxxnz/sxxgxxnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
